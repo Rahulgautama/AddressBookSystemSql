@@ -1,1 +1,1 @@
-Select * from Address_Book where City='Kanpur'
+Select Count(City)as City,count(State)as State from Address_Book
