@@ -1,2 +1,1 @@
-Delete from Address_Book where FirstName='Bill'
-
+Select * from Address_Book where City='Kanpur'
